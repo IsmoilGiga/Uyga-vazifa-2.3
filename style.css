@@ -219,3 +219,47 @@ form {
 .card:hover p{
     color: white;
 }
+
+.footer2{
+display: flex;
+gap: 50px;
+background-color: black;
+padding: 40px;
+}
+
+.heading{
+    visibility: hidden;
+}
+
+.footer2 ul a{
+    color: white;
+    text-decoration: none;
+}
+
+.footer2 ul{
+    color: white;
+    list-style: none;
+}
+
+.footer2 ul i{
+    margin-right: 30px;
+}
+
+.footer2 ul li img{
+    font-size: 100px;
+}
+
+.smm{
+    justify-content: space-between;
+    margin-top: 30px;
+    color: grey;
+    font-size: 14px;
+}
+
+.smm li a{
+    margin-top: 30px;
+}
+
+.footer2 .footertext ul li i{
+    margin-top: 30px;
+}

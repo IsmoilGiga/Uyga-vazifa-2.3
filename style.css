@@ -215,3 +215,7 @@ form {
 .card:hover h3{
     color: white;
 }
+
+.card:hover p{
+    color: white;
+}
